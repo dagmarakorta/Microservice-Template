@@ -1,4 +1,4 @@
-﻿namespace Microservices.Domain
+﻿namespace Microservice.Domain
 {
     public class Class1
     {
